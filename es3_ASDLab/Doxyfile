@@ -1,0 +1,9 @@
+PROJECT_NAME = "Algorithms and Data Structures - Exercise 3"
+OUTPUT_LANGUAGE = English
+INPUT = src
+FILE_PATTERNS = *.h *.c
+EXCLUDE_PATTERNS = */unity* */*test.c
+EXTRACT_ALL = YES
+GENERATE_HTML = YES
+GENERATE_LATEX = NO
+QUIET = YES

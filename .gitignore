@@ -1,0 +1,14 @@
+.DS_Store
+.local-originals/
+**/build/
+**/bin/
+**/html/
+**/latex/
+__pycache__/
+# Local course datasets and generated results.
+es1_ASDLab/*.bin
+es2_ASDLab/iliade.txt
+es3_ASDLab/tasks.csv
+es3_ASDLab/out.csv
+es4_ASDLab/italian_dist_graph.csv
+es4_ASDLab/out.txt
