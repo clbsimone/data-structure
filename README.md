@@ -1,4 +1,4 @@
-# Algorithms and Data Structures in C
+# University Algorithms and Data Structures in C
 
 Four laboratory projects developed by Simone Basso for the Algorithms and Data Structures course at the University of Turin. They explore generic sorting, hash tables, indexed priority queues, and sparse graphs through standalone C programs and automated tests.
 
